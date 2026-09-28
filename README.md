@@ -1,10 +1,11 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2500&pause=500&color=7C5CFF&center=true&vCenter=true&width=435&lines=NS+VAULT;OFFLINE+BY+CONSTRUCTION;ENCRYPTED+BY+DEFAULT;PRIVATE+BY+DESIGN" alt="NS Vault" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2500&pause=500&color=7C5CFF&center=true&vCenter=true&width=500&lines=NS+VAULT;N+%E2%9D%A4+S;OFFLINE+BY+CONSTRUCTION;ENCRYPTED+BY+DEFAULT" alt="NS Vault" />
 </p>
 
 <p align="center">
-  <b><span style="color:#4ADEDE">A private, fully offline encrypted audio vault for Android.</span></b><br/>
-  Recordings are encrypted the moment they stop — unlocked only by <b>PIN</b> or <b>fingerprint</b>, and they <b>never leave the device</b>.
+  <b><span style="color:#4ADEDE">Every voice is a memory.</span></b><br/>
+  <b>N</b> · <b>S</b> · <b>Vault</b> — a private, fully offline encrypted audio vault,<br/>
+  built to keep <b>her voice</b> safe where no one else will ever find it.
 </p>
 
 <p align="center">
@@ -16,6 +17,7 @@
 </p>
 
 <p align="center">
+  <a href="#-the-story"><img src="https://img.shields.io/badge/THE%20STORY-FF5C6C?style=flat-square&labelColor=0B0D12"/></a>
   <a href="#-features"><img src="https://img.shields.io/badge/FEATURES-7C5CFF?style=flat-square&labelColor=0B0D12"/></a>
   <a href="#-security-model"><img src="https://img.shields.io/badge/SECURITY-5B8CFF?style=flat-square&labelColor=0B0D12"/></a>
   <a href="#-tech-stack"><img src="https://img.shields.io/badge/TECH%20STACK-4ADEDE?style=flat-square&labelColor=0B0D12"/></a>
@@ -28,15 +30,32 @@
 
 <br/>
 
-## 💜 THE VAULT
+## 💌 THE STORY
+
+<div align="center">
+
+> **N.S.** isn't a brand. It's two initials.
+>
+> **N** — the one who built this.
+> **S** — the one who gave him a reason to.
+>
+> Some things are too precious for the cloud — late-night calls, laughter, voice notes you never want to lose. Photos get shared, screenshots get taken, cloud "privacy" gets violated. So instead of trusting a server, he built a **vault**: her voice, sealed with hardware-grade encryption, offline by construction, locked behind a PIN only two people will ever know.
+>
+> **This is the most private place on the internet — because it's not on the internet at all.**
+
+</div>
+
+<br/>
+
+## 🎁 WHAT IT MEANS
 
 <div align="center">
 
 | | |
 |:---:|:---|
-| <img src="https://img.shields.io/badge/NO%20INTERNET%20PERMISSION-0B0D12?style=for-the-badge&logo=wifi&logoColor=FF5C6C&labelColor=0B0D12&borderColor=FF5C6C"/> | **Offline by construction.** The manifest declares no `INTERNET` permission. The OS enforces what a privacy policy can only promise. |
-| <img src="https://img.shields.io/badge/NO%20ACCOUNT-0B0D12?style=for-the-badge&logo=user&logoColor=4ADEDE&labelColor=0B0D12"/> | **No cloud. No sync. No telemetry.** Your recordings never leave the device — ever. |
-| <img src="https://img.shields.io/badge/NO%20RECOVERY-0B0D12?style=for-the-badge&logo=key&logoColor=E8C468&labelColor=0B0D12"/> | **Forgot your PIN? Data gone.** There is no reset path. That is the feature. |
+| <img src="https://img.shields.io/badge/%F0%9F%92%9C%20MADE%20FOR%20S-0B0D12?style=for-the-badge&labelColor=0B0D12&color=FF5C6C"/> | Every recording saved here is a memory worth protecting — encrypted the moment it stops recording. |
+| <img src="https://img.shields.io/badge/NO%20INTERNET%20PERMISSION-0B0D12?style=for-the-badge&logo=wifi&logoColor=FF5C6C&labelColor=0B0D12"/> | **Offline by construction.** The manifest declares no `INTERNET` permission. The OS enforces what a privacy policy can only promise. |
+| <img src="https://img.shields.io/badge/NO%20ACCOUNT-0B0D12?style=for-the-badge&logo=user&logoColor=4ADEDE&labelColor=0B0D12"/> | **No cloud. No sync. No telemetry.** Her voice never leaves the device — ever. |
 | <img src="https://img.shields.io/badge/NO%20SCREENSHOTS-0B0D12?style=for-the-badge&logo=camera&logoColor=7C5CFF&labelColor=0B0D12"/> | **`FLAG_SECURE` everywhere.** Screenshots and recents thumbnails are blocked. |
 
 </div>
@@ -231,10 +250,12 @@ Signing config is read from `keystore.properties` (git-ignored). Absent → rele
 ---
 
 <p align="center">
+  <img src="https://img.shields.io/badge/MADE%20WITH%20%E2%9D%A4-0B0D12?style=for-the-badge&labelColor=0B0D12&color=FF5C6C"/>
+  <img src="https://img.shields.io/badge/FOR%20S-0B0D12?style=for-the-badge&labelColor=0B0D12&color=7C5CFF"/>
   <img src="https://img.shields.io/badge/PRIVATE%20PROJECT-0B0D12?style=for-the-badge&logo=github&logoColor=7C5CFF&labelColor=0B0D12"/>
   <img src="https://img.shields.io/badge/ALL%20RIGHTS%20RESERVED-0B0D12?style=for-the-badge&logo=shield&logoColor=4ADEDE&labelColor=0B0D12"/>
 </p>
 
-<p align="center">
-  <i>Built with 💜 for people who take privacy seriously.</i>
+<p align="center" style="color:#4ADEDE">
+  <i>Built for N &amp; S — the two people whose voices this vault exists to protect.</i>
 </p>
